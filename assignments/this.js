@@ -50,5 +50,4 @@ function CordialPerson(greeter) {
 // Principle 4
 
 // code example for Explicit Binding
-jerry.greeter.call(newman);
-newman.greeting.call(jerry);
+
